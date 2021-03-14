@@ -1,0 +1,48 @@
+h1{
+  text-align: center;
+  color: red;
+}
+h2{
+font-size: 15px;
+color: aqua
+
+}
+
+
+
+.gallery {
+  flex: 33.33%;
+  padding: 5px;
+
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+  
+}
+
+
+
+.row {
+  display: flex;
+}
+
+.row2 {
+  display: flex;
+}
+
+.row3 {
+  display: flex;
+}
+
+
+
+p {
+  font-size: 15px;
+
+}
+
+
+
+
